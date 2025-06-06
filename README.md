@@ -50,7 +50,7 @@ OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ### 4. Create Your Main Python File
 
-Create `main.py` and paste the code below (see [Usage](#usage)).
+Create `main.py` and paste the code below (see [Usage](main.py)).
 
 ---
 
